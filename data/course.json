@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "01c3fed6-cb71-e562-4c94-ed6222691008",
+  "instructors": {
+    "content": [
+      "1f2ff674-4d9b-b2ea-04cd-cc08d9f823c5",
+      "909c4d57-1d89-fc53-0982-89be28ad2b81"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e574505a-076b-e369-95ab-7eb41d3444fc",
+    "website": "12-620j-classical-mechanics-a-computational-approach-fall-2008"
+  },
+  "course_title": "Classical Mechanics: A Computational Approach",
+  "course_description": "We will study the fundamental principles of classical mechanics, with a modern emphasis on the qualitative structure of phase space. We will use computational ideas to formulate the principles of mechanics precisely. Expression in a computational framework encourages clear thinking and active exploration.\n\nWe will consider the following topics: the Lagrangian formulation; action, variational principles, and equations of motion; Hamilton's principle; conserved quantities; rigid bodies and tops; Hamiltonian formulation and canonical equations; surfaces of section; chaos; canonical transformations and generating functions; Liouville's theorem and Poincar\u00e9 integral invariants; Poincar\u00e9-Birkhoff and KAM theorems; invariant curves and cantori; nonlinear resonances; resonance overlap and transition to chaos; properties of chaotic motion.\n\nIdeas will be illustrated and supported with physical examples. We will make extensive use of computing to capture methods, for simulation, and for symbolic analysis.\n",
+  "department_numbers": [
+    "12",
+    "6",
+    "8"
+  ],
+  "extra_course_numbers": "6.946J,8.351J",
+  "primary_course_number": "12.620J",
+  "course_image_thumbnail": {
+    "content": "d2aeef10-39b8-42c7-d82a-0727f857e287",
+    "website": "12-620j-classical-mechanics-a-computational-approach-fall-2008"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7825eb89-a3ce-434d-9d6e-c9971811d8b2",
+  "site_short_id": "12.620j-fall-2008",
+  "site_url_path": "courses/12-620j-classical-mechanics-a-computational-approach-fall-2008",
+  "title": "Course Metadata"
+}

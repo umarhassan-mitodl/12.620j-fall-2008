@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, the
   laboratory, MIT's UNIX-based computing environment, readings, assignments, projects,
   grades, and guidelines for collaborative work.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ Readings
 
 The readings for this course will be taken from the following book:
 
-{{% resource_link "0656659e-8e73-4ae7-9e46-943c1a51e55f" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194556) Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
 
 We will provide a schedule of assignments, with readings for each lecture. We will assume that you read the material before the lecture.
 

@@ -7,6 +7,8 @@ description: The purpose of this document is to introduce a beginner to the use 
 file: /courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/ca6f807294ce168807156f6fe06a03b4_MIT12_620Jf08_study01.pdf
 file_size: 74031
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of readings assigned by lecture topic.
   All readings are taken from the course textbook, available on the MIT Press website.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,11 +13,11 @@ uid: 4a935a18-7cc4-7c68-c907-e5e104de8d4e
 
 All readings are taken from the course textbook:
 
-{{% resource_link "0656659e-8e73-4ae7-9e46-943c1a51e55f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194556) Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
 
-The {{% resource_link "ef969677-3f59-4e02-a142-c76cd0c1a543" "full text is available here" %}} (MIT Press website).
+The [full text is available here](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (MIT Press website).
 
-{{% resource_link "ec49fcbb-c7a0-415d-99c3-2e85a852890a" "Errata for SICM" %}}
+[Errata for SICM](http://groups.csail.mit.edu/mac/users/gjs/6946/errata.pdf)
 
 Use the Table of Contents to find each section listed in the table below.
 

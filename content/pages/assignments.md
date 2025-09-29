@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the weekly problem sets and four
   larger projects from of course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -57,7 +59,7 @@ Principle of stationary action
 
 Assignment 1 (due in Ses #5): exercises 1.2, 1.3, 1.4, 1.5
 
-Begin the Double Pendulum Project, {{% resource_link "057e615f-e2df-44aa-b1da-52aa52f5a3f2" "exercise 1.39 (PDF)" %}}, which will be due in Ses #13.
+Begin the Double Pendulum Project, [exercise 1.39 (PDF)](http://web.mit.edu/dvp/www/Work/6.946/dvp-pendulum-paper.pdf), which will be due in Ses #13.
 
 
 {{< tdclose >}}
@@ -251,7 +253,7 @@ Legendre transformation, Hamiltonian actian
 
 Choose one of the following two projects. These projects are quite a bit of work, so the problem sets for the next few weeks are small.
 
-{{% resource_link "297d5926-bf31-4cdf-b2fc-90489073719e" "Exercise 3.14 (PDF)" %}}: The Periodically-Driven Pendulum
+[Exercise 3.14 (PDF)](http://web.mit.edu/dvp/www/Work/6.946/dvp-hamilton-paper.pdf): The Periodically-Driven Pendulum
 
 Exercise 3.15: Spin-orbit Surfaces of Section
 

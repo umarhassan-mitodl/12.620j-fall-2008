@@ -7,8 +7,6 @@ description: Guidelines on plotting graphs and making simple drawings using the 
 file: /courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/ed26918b0ae481289553f20f65cf1fa2_MIT12_620Jf08_study02.pdf
 file_size: 69860
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

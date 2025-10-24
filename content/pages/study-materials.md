@@ -4,8 +4,6 @@ description: "This section provides study materials on classical mechanics, Poin
   \ equations, and the Scmutils system, an integrated library of procedures, embedded\
   \ in the programming language Scheme, and intended to support teaching and research\
   \ in mathematical physics and electrical engineering."
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

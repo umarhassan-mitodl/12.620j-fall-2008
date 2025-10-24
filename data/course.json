@@ -29,7 +29,6 @@
     "website": "12-620j-classical-mechanics-a-computational-approach-fall-2008"
   },
   "course_title": "Classical Mechanics: A Computational Approach",
-  "hide_download": true,
   "course_description": "We will study the fundamental principles of classical mechanics, with a modern emphasis on the qualitative structure of phase space. We will use computational ideas to formulate the principles of mechanics precisely. Expression in a computational framework encourages clear thinking and active exploration.\n\nWe will consider the following topics: the Lagrangian formulation; action, variational principles, and equations of motion; Hamilton's principle; conserved quantities; rigid bodies and tops; Hamiltonian formulation and canonical equations; surfaces of section; chaos; canonical transformations and generating functions; Liouville's theorem and Poincar\u00e9 integral invariants; Poincar\u00e9-Birkhoff and KAM theorems; invariant curves and cantori; nonlinear resonances; resonance overlap and transition to chaos; properties of chaotic motion.\n\nIdeas will be illustrated and supported with physical examples. We will make extensive use of computing to capture methods, for simulation, and for symbolic analysis.\n",
   "department_numbers": [
     "12",
@@ -42,7 +41,6 @@
     "content": "d2aeef10-39b8-42c7-d82a-0727f857e287",
     "website": "12-620j-classical-mechanics-a-computational-approach-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "7825eb89-a3ce-434d-9d6e-c9971811d8b2",
   "site_short_id": "12.620j-fall-2008",

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of readings assigned by lecture topic.
   All readings are taken from the course textbook, available on the MIT Press website.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

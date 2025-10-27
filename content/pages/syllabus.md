@@ -28,7 +28,7 @@ Readings
 
 The readings for this course will be taken from the following book:
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194556) Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
+{{% resource_link "8d076e25-9d29-4641-bc0d-0b412d9f834a" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
 
 We will provide a schedule of assignments, with readings for each lecture. We will assume that you read the material before the lecture.
 
